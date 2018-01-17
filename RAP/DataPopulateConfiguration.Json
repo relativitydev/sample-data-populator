@@ -1,8 +1,0 @@
-{
-	"RelativityUsername": "relativity.admin@kcura.com",
-	"RelativityPassword": "Test1234!",
-	"RelativityLibraryFolder": "C:\\Program Files\\kCura Corporation\\Relativity\\Library",
-	"NumberOfDocuments": 1000,
-	"ImportImagesWithDocuments": true,
-	"ImportProductionImagesWithDocuments": true
-}
